@@ -1,4 +1,5 @@
-﻿/*
+﻿/*Changed by
+ * Julie Greger
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  * Simulate the Monty Hall problem to show that switching doors increases the player's chance of winning.
